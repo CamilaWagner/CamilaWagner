@@ -1,6 +1,6 @@
 # Sobre mim
 
-- ##### 👋 Hi, I’m @CamilaWagner
+- ### 👋 Hi, I’m @CamilaWagner
 - 👀 I’m interested in Computer thinks
 - 🌱 I’m currently learning Pensamento Computacional
 - 💞️ I’m looking to collaborate on anythink
