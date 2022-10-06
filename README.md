@@ -3,7 +3,7 @@
 - ### 👋 Hi, I’m @CamilaWagner
 - 👀 I’m interested in Computer thinks
 - 🌱 I’m currently learning Pensamento Computacional
-- 💞️ I’m looking to collaborate on anythink
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me [email](wagner.camila@escola.pr.gov.br)
 
 <!---
