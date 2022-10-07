@@ -1,3 +1,7 @@
+<!-- Inicia codigo Contador -->
+<figure><div><a title="Contador de Visitas" href="https://www.informaticaja.com.br/ferramenta/contador-de-visitas/"><figure><img src="https://contador-gratis.com/contadores-de-visitas/061022090019962.gif" alt="Contador de visitas"></a><figcaption><a href="https://calendariodoano.com.br/ferramenta/contador-de-dias-calculadora-prazo-entre-datas/" target="_blank"> VISITAS \Õ/</a></figcaption></div></figure>
+<!-- Fim do codigo Contador -->
+
 # Sobre mim
 
 - ### 👋 Hi, I’m @CamilaWagner
